@@ -14,11 +14,11 @@ Exploring Docker.
 
 ## Wednesday 2018-07-11
 
-Exploring test-driven development in NodeJS.
+Exploring Docker.
 
 ## Thursday 2018-07-12
 
-Exploring Event Driven Architecture.
+Exploring test-driven development in NodeJS.
 
 ## Friday 2018-07-13
 

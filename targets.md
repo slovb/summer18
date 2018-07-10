@@ -12,6 +12,10 @@ My intention is to work on the task of the day for at most 2 hours a day, accept
 
 Wrote down a lot of my ideas. Given that I had not decided ahead of time how to organize this, I think it went fine.
 
+#### Tuesday 2018-07-10
+
+My server is being updated as I couldn't install Docker on my main machine.
+
 
 ## Improving planning by doing a lot more of it
 
@@ -20,6 +24,7 @@ I think I could benefit from more planning and thus this project is focused on p
 ### Progress
 
 * Wrote a fair chunk of markdown in initial planning.
+* Messed up planning for 10/7, should have realized my Windows version couldn't run Docker.
 
 
 ## Explore docker
@@ -48,4 +53,6 @@ Detailed in "design.md".
 Unsure if it is the correct terminology, but I like the idea of instead of storing state in the database I store the events that generate the state and thus state is found by applying all events. Unsure if I am able to incorporate this into the project.
 
 ### Progress
+
+* This is skipped due to missing a day. I might do this after the main project.
 
