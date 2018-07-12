@@ -15,7 +15,7 @@ Build a few toys with some unknown technologies in preparation of actually makin
 
 Planning the project and setting up an initial development environment.
 
-### Choices
+### Moments
 
 * I will work on this project every workday week 28 and week 29 of summer 2018.
 * Linux due to familiarity. Although through WSL because my best computer is Windows based at the moment.
@@ -32,11 +32,24 @@ Planning the project and setting up an initial development environment.
 
 ### Goal
 
-Exploring Docker and figuring out whether I can get up to speed fast enough to use it in  this project.
+Exploring Docker and figuring out whether I can get up to speed fast enough to use it in this project.
 
-### Choices
+### Moments
 
 * I will use Docker for Windows in combination with a Docker CLI in WSL.
 * I can not use Docker for Windows as I don't have a Pro License. Time to ressurect my Linux server.
 * Event Driven Architecture is moved to after the project due to missing a day.
+
+
+## Wednesday 2018-07-11
+
+### Goal
+
+Exploring Docker and figuring out whether I can get up to speed fast enough to use it in this project.
+
+### Moments
+
+* Started way too late (it is in fact Thursday).
+* Installed Docker.
+* Followed a tutorial and learned how to create and run images.
 

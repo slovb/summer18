@@ -16,6 +16,10 @@ Wrote down a lot of my ideas. Given that I had not decided ahead of time how to 
 
 My server is being updated as I couldn't install Docker on my main machine.
 
+#### Wednesday 2018-07-11
+
+Started too late, created a Docker image running a webapp.
+
 
 ## Improving planning by doing a lot more of it
 
@@ -32,6 +36,10 @@ I think I could benefit from more planning and thus this project is focused on p
 I want to know if I can utilize Docker in some way to get a basic familiarity with Docker. I accept that it will be harmful to the chance of completion of the project.
 
 ### Progress
+
+* Installed Docker.
+* Tested a few sample images.
+* Created an image running a python webapp using a tutorial.
 
 
 ## Test-driven web-development in NodeJS
